@@ -1,0 +1,32 @@
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.exe.config
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.exe
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.pdb
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News_Letter_Subscriber.Form1.resources
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News_Letter_Subscriber.Properties.Resources.resources
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.exe
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.pdb
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\Faker.Net.4.7.dll
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\WebDriver.dll
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\de-DE\Faker.Net.4.7.resources.dll
+C:\Users\admin\source\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.CopyComplete
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.exe.config
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.exe
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\News Letter Subscriber.pdb
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\Faker.Net.4.7.dll
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\WebDriver.dll
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\WebDriver.Support.dll
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\bin\Debug\de-DE\Faker.Net.4.7.resources.dll
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.AssemblyReference.cache
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News_Letter_Subscriber.Form1.resources
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News_Letter_Subscriber.Properties.Resources.resources
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.GenerateResource.cache
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.csproj.CopyComplete
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.exe
+C:\Users\dev\Downloads\repos\News Letter Subscriber\News Letter Subscriber\obj\Debug\News Letter Subscriber.pdb
